@@ -15,4 +15,4 @@ The platform allows users to connect their Instagram account, define content pre
 * Automation Controls
 * Mobile-First User Experience
 
-FeedFlow is built as a hackathon MVP using React Native, Node.js, and a modular automation architecture focused on improving content relevance through user-driven preferences.
+FeedFlow is built as a MVP using React Native, Node.js, and a modular automation architecture focused on improving content relevance through user-driven preferences.
